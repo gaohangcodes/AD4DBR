@@ -1,6 +1,6 @@
 # AD4DBR
 
-The repository for our paper "[Attention Distillation for Low-cost Driver Behavior Recognition](temp)".
+The repository for our paper "[Attention Distillation for Low-cost Driver Behavior Recognition](https://www.sciencedirect.com/science/article/abs/pii/S1568494625017119)".
 
 # Dataset Preparation
 
