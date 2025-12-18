@@ -8,6 +8,6 @@ For instructions on how to obtain the AUC V2 dataset with driver IDs, please ref
 
 # Acknowledgments
 
-This work was supported by the National Natural Science Foundation of China (NSFC) under Grants 72401159, 62576245, and the National Key R&D Program of China (No.2021YFC3001500). We would like to express our sincere gratitude to the reviewers and the editors for their valuable suggestions.
+This work was supported by the National Natural Science Foundation of China (NSFC) under Grants 72401159, 62576245, 62406151, and the National Key R&D Program of China (No.2021YFC3001500). We would like to express our sincere gratitude to the reviewers and the editors for their valuable suggestions.
 
 This repository borrows partially from the [100-Driver](https://github.com/Shenqishaonv/100-Driver-Source).
